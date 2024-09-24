@@ -1,0 +1,11 @@
+minhaLista = [76, 92.3, "oi", True, 4, 76]
+
+minhaLista.append("pitomba")
+minhaLista.append(76)
+minhaLista.insert(3, "Cibele")
+minhaLista.insert(0, 99)
+minhaLista.index("oi")
+minhaLista.remove(True)
+
+for i in minhaLista:
+    print(i)
