@@ -32,4 +32,4 @@ for i in range(0, 6):
         minhaLista[i] = "Nothing"
         break
         
-print(minhaLista
+print(minhaLista)
