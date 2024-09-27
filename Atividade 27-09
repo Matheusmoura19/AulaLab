@@ -1,0 +1,27 @@
+d = {'laranja' : 15, 'bananas' : 35, 'siriguelas' : 12}
+print(d['bananas'])
+
+d['pitomba'] = 20
+len(d)
+
+'pitomba' in d
+'pears' in d
+
+del d['laranja']
+'laranja' in d
+
+print(d)
+
+frutas = {"pinha", "oito coró", "jaca", "tamarindo"}
+print(frutas + [6, 7, 8, 9])
+print([1,2], [3,4])
+print([0] * 4)
+print([1,2, ["oi", "tchau"]] * 2)
+
+minhaLista=[]
+minhaLista.append(5)
+minhaLista.append(27)
+minhaLista.append(3)
+minhaLista.append(12)
+
+print(minhaLista)
